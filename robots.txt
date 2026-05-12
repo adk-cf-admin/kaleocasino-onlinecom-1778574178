@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://kaleocasino-online.com/
+Sitemap: https://kaleocasino-online.com/sitemap.xml
